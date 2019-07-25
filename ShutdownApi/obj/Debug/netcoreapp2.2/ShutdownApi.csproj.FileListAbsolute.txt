@@ -1,0 +1,14 @@
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\bin\Debug\netcoreapp2.2\ShutdownApi.deps.json
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\bin\Debug\netcoreapp2.2\ShutdownApi.runtimeconfig.json
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\bin\Debug\netcoreapp2.2\ShutdownApi.runtimeconfig.dev.json
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\bin\Debug\netcoreapp2.2\ShutdownApi.dll
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\bin\Debug\netcoreapp2.2\ShutdownApi.pdb
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.csprojAssemblyReference.cache
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.csproj.CoreCompileInputs.cache
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.RazorAssemblyInfo.cache
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.RazorAssemblyInfo.cs
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.AssemblyInfoInputs.cache
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.AssemblyInfo.cs
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.RazorTargetAssemblyInfo.cache
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.dll
+G:\.NET CORE\Shutdown-Remote-Pc\ShutdownApi\obj\Debug\netcoreapp2.2\ShutdownApi.pdb
